@@ -1,6 +1,4 @@
 ## ![](/images/logo-small-black.png) o5i8i2 Summary 
-> Still a work in progress :) <br/>
-> Last modified at 22:00  02/06/2018 
 
 ### Binary Stickers
 **First known sighting : 24 April 2018**
